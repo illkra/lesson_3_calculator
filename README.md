@@ -1,1 +1,1 @@
-# lesson_3_calculator
+# lessons
